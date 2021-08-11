@@ -1,6 +1,6 @@
 Hey 👋🏻,
 
-I am CEO and Founder of Benny Leaks from Poland 🇵🇱. 
+I am Founder of Benny Leaks from Poland 🇵🇱. 
 I am interested in, write about, and develop software solutions
 using Lua, C++, C#, HTML.
 
