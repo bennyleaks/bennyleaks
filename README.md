@@ -1,7 +1,7 @@
 Hey 👋🏻,
 
-I am Founder of Benny Leaks from Poland 🇵🇱. 
-I am interested in, write about, and develop software solutions
+I'm Founder of Benny Leaks. 
+I'm interested in, write about, and develop software solutions
 using Lua, C++, C#, HTML.
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=benny70&color=1b1f23)
