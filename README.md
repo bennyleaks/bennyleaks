@@ -1,6 +1,6 @@
 Hey 👋🏻,
 
-I'm Founder of Benny Leaks. 
+I'm Benny and I'm Founder of Benny Leaks. 
 I'm interested in, write about, and develop software solutions
 using Lua, C++, C#, HTML.
 
