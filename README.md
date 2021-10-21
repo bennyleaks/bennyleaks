@@ -2,7 +2,7 @@ Hey 👋🏻,
 
 I'm Benny and I'm Founder of Benny Leaks. 
 I'm interested in, write about, and develop software solutions
-using Lua, C++, C#, HTML.
+using Lua, C++, C#, HTML, CSS, JS, SQL.
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=benny70&color=1b1f23)
 [![discord](https://img.shields.io/badge/BennyLeaks-Join!-7289db.svg?logo=discord&logoWidth=20)](https://discord.gg/R3fHCrYf5C)
