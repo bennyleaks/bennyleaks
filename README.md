@@ -1,10 +1,5 @@
 # Hi there 👋
 
-## Mostly used tools and programing languages
-
-### Tools
-* Microsoft Visual Studio Code
-
 ### Languages
 * C++
 * C#
