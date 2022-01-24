@@ -1,10 +1,7 @@
 ### Languages
-* C++
-* C#
 * Lua
 * HTML & CSS
 * PHP
-* JavaScript
 
 ## My Github Stats
 ![Crutchie's github stats](https://github-readme-stats.vercel.app/api?username=xsimplybeny&show_icons=true&theme=dark)
