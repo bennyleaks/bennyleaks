@@ -1,6 +1,6 @@
 ### Languages
-* Lua
 * HTML & CSS
+* Lua
 * PHP
 
 ## My Github Stats
